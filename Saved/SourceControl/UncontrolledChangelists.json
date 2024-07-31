@@ -1,0 +1,53 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/unreal engine/first project july 2024/RPG_Game/Content/Characters/rpg_character/animations/assassinations/UE4/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"D:/unreal engine/first project july 2024/RPG_Game/Content/Characters/rpg_character/animations/assassinations/UE4/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"D:/unreal engine/first project july 2024/RPG_Game/Content/Characters/rpg_character/animations/assassinations/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"D:/unreal engine/first project july 2024/RPG_Game/Content/Characters/rpg_character/animations/assassinations/Paired_Knife_Stealth_KidneyAndNeck_Att_Montage.uasset",
+				"D:/unreal engine/first project july 2024/RPG_Game/Content/Characters/rpg_character/animations/assassinations/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"D:/unreal engine/first project july 2024/RPG_Game/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/unreal engine/first project july 2024/RPG_Game/Content/blueprints/BP_dummy.uasset",
+				"D:/unreal engine/first project july 2024/RPG_Game/Content/blueprints/BPI_assasination.uasset",
+				"D:/unreal engine/first project july 2024/RPG_Game/Content/Characters/rpg_character/animations/assassinations/Paired_Knife_Stealth_KidneyAndNeck_Vic_Montage.uasset",
+				"D:/unreal engine/first project july 2024/RPG_Game/Content/UI/UB_assassinatePropt.uasset",
+				"C:/Users/Damie/OneDrive/Documents/Unreal Projects/rpgtutorial/Content/Characters/rpg_character/animations/crouch/crouched.uasset",
+				"C:/Users/Damie/OneDrive/Documents/Unreal Projects/rpgtutorial/Content/Characters/rpg_character/animations/crouch/Crouh_Walk.uasset",
+				"C:/Users/Damie/OneDrive/Documents/Unreal Projects/rpgtutorial/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/Damie/OneDrive/Documents/Unreal Projects/rpgtutorial/Content/ThirdPerson/Input/Actions/IA_crouch.uasset",
+				"C:/Users/Damie/OneDrive/Documents/Unreal Projects/rpgtutorial/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Damie/OneDrive/Documents/Unreal Projects/rpgtutorial/Content/Characters/rpg_character/animations/ABP_rpgcharacter.uasset",
+				"C:/Users/Damie/OneDrive/Documents/Unreal Projects/rpgtutorial/Content/Characters/rpg_character/animations/lean/lean_left.uasset",
+				"C:/Users/Damie/OneDrive/Documents/Unreal Projects/rpgtutorial/Content/Characters/rpg_character/animations/lean/lean_right.uasset",
+				"C:/Users/Damie/OneDrive/Documents/Unreal Projects/rpgtutorial/Content/Characters/rpg_character/animations/lean/leaning.uasset",
+				"C:/Users/Damie/OneDrive/Documents/Unreal Projects/rpgtutorial/Content/Characters/Mannequins/Materials/Instances/Manny/manny_blue.uasset",
+				"C:/Users/Damie/OneDrive/Documents/Unreal Projects/rpgtutorial/Content/Characters/Mannequins/Materials/Instances/Manny/manny_blue2.uasset",
+				"C:/Users/Damie/OneDrive/Documents/Unreal Projects/rpgtutorial/Content/Characters/rpg_character/animations/vualting/VaultOver.uasset",
+				"C:/Users/Damie/OneDrive/Documents/Unreal Projects/rpgtutorial/Content/Characters/rpg_character/animations/vualting/vaulting.uasset",
+				"C:/Users/Damie/OneDrive/Documents/Unreal Projects/rpgtutorial/Content/Characters/Mannequins/Animations/Manny/MM_Jump.uasset",
+				"C:/Users/Damie/OneDrive/Documents/Unreal Projects/rpgtutorial/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/V0/RU13882G9CHRC9M6UCGPMX.uasset",
+				"C:/Users/Damie/OneDrive/Documents/Unreal Projects/rpgtutorial/Content/Characters/Mannequins/Materials/Instances/Manny/manny_b.uasset",
+				"C:/Users/Damie/OneDrive/Documents/Unreal Projects/rpgtutorial/Content/Characters/rpg_character/animations/lean/MM_Run_Fwd.uasset",
+				"C:/Users/Damie/OneDrive/Documents/Unreal Projects/rpgtutorial/Content/Characters/rpg_character/animations/locomotion/ABP_rpgcharacter.uasset",
+				"C:/Users/Damie/Documents/Unreal Projects/rpgtutorial/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Damie/Documents/Unreal Projects/rpgtutorial/Content/Characters/rpg_character/animations/Crouch_Idle.uasset",
+				"C:/Users/Damie/Documents/Unreal Projects/rpgtutorial/Content/Characters/rpg_character/animations/Crouh_Walk.uasset",
+				"C:/Users/Damie/Documents/Unreal Projects/rpgtutorial/Content/Characters/rpg_character/animations/Idle_Break.uasset",
+				"C:/Users/Damie/Documents/Unreal Projects/rpgtutorial/Content/Characters/rpg_character/animations/Walk_Stop.uasset",
+				"C:/Users/Damie/Documents/Unreal Projects/rpgtutorial/Content/Characters/rpg_character/animations/locomotion/Idle_Break.uasset",
+				"C:/Users/Damie/Documents/Unreal Projects/rpgtutorial/Content/Characters/rpg_character/animations/locomotion/Walk_Stop.uasset",
+				"C:/Users/Damie/Documents/Unreal Projects/rpgtutorial/Content/Characters/rpg_character/animations/locomotion/Crouch_Idle.uasset",
+				"C:/Users/Damie/Documents/Unreal Projects/rpgtutorial/Content/Characters/rpg_character/animations/locomotion/Crouh_Walk.uasset",
+				"C:/Users/Damie/Documents/Unreal Projects/rpgtutorial/Content/Characters/rpg_character/animations/crouch/Crouch_Idle.uasset",
+				"C:/Users/Damie/Documents/Unreal Projects/rpgtutorial/Content/Characters/rpg_character/animations/crouch/Crouh_Walk.uasset",
+				"C:/Users/Damie/Documents/Unreal Projects/rpgtutorial/Content/Characters/rpg_character/animations/locomotion/locomotion_blendspace1d.uasset",
+				"C:/Users/Damie/Documents/Unreal Projects/rpgtutorial/Content/Characters/rpg_character/animations/locomotion/ABP_rpgcharacter.uasset",
+				"C:/Users/Damie/Documents/Unreal Projects/rpgtutorial/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
